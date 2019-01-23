@@ -2,7 +2,7 @@
     <tr>
         <!-- Do not translate this table -->
         <td><a href="./README.md"> English </a></td>
-        <td><a href="./README-ZH.md"> 中文 </a></td>
+        <td><a href="./README-CN.md"> 中文 </a></td>
         <td><a href="./README-RU.md"> русский </a></td>
         <td><a href="./README-IT.md"> Italiano </a></td>
     </tr>
@@ -35,16 +35,16 @@
 ## 一般开源贡献
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - DigitalOcean提供的指导你通过你的方式在GitHub上成功进行贡献的指南。
 - [Issuehub.io](http://issuehub.io/) - 一个通过标签和语言来搜索GitHub issue的工具。
-- [Code Triage](https://www.codetriage.com/) - 另一个，真的不错的，通过语言过滤来查找流行的开源库和issue的工具。
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
-- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - A step-by-step approach to contributing to your first open source project by [Abati Adewale](https://www.acekyd.com).
+- [Code Triage](https://www.codetriage.com/) - 另一个，确实不错的，通过语言过滤来查找流行的开源库和issue的工具。
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - 一个GitHub开源库，收集一些对新的贡献来说有不错的Bug进行贡献的工程，并且通过标签来进行描述。
+- [Open Source Guides](https://opensource.guide/) - 为希望学习怎样对开源项目进行贡献的个人，组织和公司收集的资源。
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 在GitHub上什么该做什么不该做。
+- [GitHub Guides](https://guides.github.com/) -关于如何有效率的使用GitHub的基本指导。
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 通过为一个模拟的工程贡献来学习GitHub工作流。
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Linux基金会改于开源项目的指南。
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - 一个开源规则指南, 由 Kent C. Dodds 和 Sarah Drasner 撰写.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 为大学生提供的关于学习一门新语言的资源或机会的对照表。
+- [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - 一步一步通过[Abati Adewale](https://www.acekyd.com)接近贡献你的第一个开源项目。
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to open source projects hosted on Github. 
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to open source projects on GitHub.
 
