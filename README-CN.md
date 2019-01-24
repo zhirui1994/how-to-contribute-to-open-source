@@ -45,7 +45,7 @@
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - 一个开源规则指南, 由 Kent C. Dodds 和 Sarah Drasner 撰写.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 为大学生提供的关于学习一门新语言的资源或机会的对照表。
 - [Contributing to your First Open Source Project: A Practical Approach](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - 一步一步通过[Abati Adewale](https://www.acekyd.com)接近贡献你的第一个开源项目。
-- [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to open source projects hosted on Github. 
+- [Pull Request Roulette](http://www.pullrequestroulette.com/) - 这个网站有一个托管在GitHub上提交上去为了复查的属于开源的项目的拉取请求列表。
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to open source projects on GitHub.
 
 ## GitHub上直接搜索
